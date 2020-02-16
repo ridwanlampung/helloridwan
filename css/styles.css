@@ -1,0 +1,25 @@
+.list-group .justify-content-between h4{
+	color : #eb3b5a;
+}
+.list-group-item-red{
+	background-color: #eb3b5a;
+	color: #fff;
+}
+.list-group-item-red i{
+	color: #fff;
+}
+
+
+.alert-red{
+	background-color : #eb3b5a;
+}
+.alert-red h2{
+	color : #fff;
+}
+
+.alert-blue{
+	background-color : #45aaf2;
+}
+.alert-blue h2{
+	color : #fff;
+}
